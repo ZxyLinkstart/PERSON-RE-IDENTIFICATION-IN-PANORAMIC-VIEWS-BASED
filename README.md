@@ -2,4 +2,4 @@
 PERSON RE-IDENTIFICATION IN PANORAMIC VIEWS BASED ON BAYESIANTRANSFORMERS 
 
 
-If you want to request a dataset please fill out the "FaceVerse Dataset Release Agreement", send the email to songwenfenga@gmail.com.
+If you want to request a dataset please fill out the "RE-IDENTIFICATION_IN_PANORAMIC_VIEWS _Agreement Agreement", send the email to songwenfenga@gmail.com.
